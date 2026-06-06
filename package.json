@@ -2,7 +2,7 @@
   "dependencies": {
     "chalk": "2.0.0",
     "nodemon": "2.0.0",
-    "xmldoc": "1.0.0",
+    "xmldoc": "3.0.0",
     "express": "2.0.0"
   }
 }
